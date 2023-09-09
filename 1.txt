@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Hello
-
-Everybody 
-=======
->>>>>>> parent of 57e334d (first Modification)
